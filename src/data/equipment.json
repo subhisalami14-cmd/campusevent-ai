@@ -1,0 +1,23 @@
+{
+  "_note": "SYNTHETIC DATA – מחיר ליחידה לאירוע (ש\"ח)",
+  "equipment": [
+    {
+      "item": "projector",
+      "name": "מקרן",
+      "stock": 6,
+      "unit_price": 150
+    },
+    {
+      "item": "mic",
+      "name": "מיקרופון",
+      "stock": 10,
+      "unit_price": 50
+    },
+    {
+      "item": "recording_kit",
+      "name": "ערכת הקלטה",
+      "stock": 2,
+      "unit_price": 120
+    }
+  ]
+}

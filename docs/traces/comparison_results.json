@@ -1,0 +1,26 @@
+[
+  {
+    "strategy": "full",
+    "context_messages": 7,
+    "context_chars": 387,
+    "status": "awaiting_approval",
+    "correct": true,
+    "reply": "הצעה: כיתה 110 (עד 30 משתתפים), 2026-12-15 12:00–14:00. עלות: 350 ש\"ח (חדר 200 + מקרן 150); נשארים 350 ש\"ח מהתקציב. לאשר את השריון? (כן/לא)"
+  },
+  {
+    "strategy": "reduced",
+    "context_messages": 5,
+    "context_chars": 259,
+    "status": "clarify",
+    "correct": false,
+    "reply": "כדי לבדוק זמינות ולחשב עלות אני צריך עוד כמה פרטים: תקציב (בש\"ח)."
+  },
+  {
+    "strategy": "reduced + note",
+    "context_messages": 6,
+    "context_chars": 315,
+    "status": "awaiting_approval",
+    "correct": true,
+    "reply": "הצעה: כיתה 110 (עד 30 משתתפים), 2026-12-15 12:00–14:00. עלות: 350 ש\"ח (חדר 200 + מקרן 150); נשארים 350 ש\"ח מהתקציב. לאשר את השריון? (כן/לא)"
+  }
+]

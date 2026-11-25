@@ -1,0 +1,3 @@
+{"t": 1795507634.001, "thread_id": "cmp-reduced", "event": "user_message", "turn": 4, "text": "תאם חדר ל־30 איש ב־15/12 בין 12:00 ל־14:00 עם מקרן."}
+{"t": 1795507634.001, "thread_id": "cmp-reduced", "event": "model_decision", "step": 1, "context": {"messages": 5, "chars": 259}, "strategy": "reduced", "decision": {"kind": "clarify", "args": {}, "text": "כדי לבדוק זמינות ולחשב עלות אני צריך עוד כמה פרטים: תקציב (בש\"ח)."}}
+{"t": 1795507634.001, "thread_id": "cmp-reduced", "event": "stop", "reason": "clarify", "step": 1}

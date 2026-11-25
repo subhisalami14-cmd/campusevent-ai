@@ -1,0 +1,110 @@
+{
+  "_note": "SYNTHETIC DATA – נתונים סינתטיים לחלוטין לצורכי הפרויקט",
+  "rooms": [
+    {
+      "room_id": "R101",
+      "name": "חדר סמינר 101",
+      "capacity": 15,
+      "hourly_rate": 60,
+      "accessible": true
+    },
+    {
+      "room_id": "R102",
+      "name": "חדר סמינר 102",
+      "capacity": 20,
+      "hourly_rate": 80,
+      "accessible": false
+    },
+    {
+      "room_id": "R103",
+      "name": "כיתה 103",
+      "capacity": 25,
+      "hourly_rate": 90,
+      "accessible": true
+    },
+    {
+      "room_id": "R105",
+      "name": "מעבדת מחשבים 105",
+      "capacity": 25,
+      "hourly_rate": 140,
+      "accessible": true
+    },
+    {
+      "room_id": "R110",
+      "name": "כיתה 110",
+      "capacity": 30,
+      "hourly_rate": 100,
+      "accessible": false
+    },
+    {
+      "room_id": "R201",
+      "name": "כיתה 201",
+      "capacity": 30,
+      "hourly_rate": 110,
+      "accessible": true
+    },
+    {
+      "room_id": "R204",
+      "name": "אולם 204",
+      "capacity": 50,
+      "hourly_rate": 200,
+      "accessible": true
+    },
+    {
+      "room_id": "R210",
+      "name": "כיתה 210",
+      "capacity": 45,
+      "hourly_rate": 220,
+      "accessible": false
+    },
+    {
+      "room_id": "R301",
+      "name": "אולם 301",
+      "capacity": 60,
+      "hourly_rate": 260,
+      "accessible": true
+    },
+    {
+      "room_id": "R305",
+      "name": "אולם 305",
+      "capacity": 80,
+      "hourly_rate": 240,
+      "accessible": false
+    },
+    {
+      "room_id": "AUD1",
+      "name": "אודיטוריום א'",
+      "capacity": 120,
+      "hourly_rate": 280,
+      "accessible": true
+    },
+    {
+      "room_id": "AUD2",
+      "name": "אודיטוריום ב'",
+      "capacity": 150,
+      "hourly_rate": 290,
+      "accessible": true
+    },
+    {
+      "room_id": "LIB1",
+      "name": "חדר עיון בספרייה",
+      "capacity": 12,
+      "hourly_rate": 50,
+      "accessible": true
+    },
+    {
+      "room_id": "STU1",
+      "name": "סטודיו הקלטות",
+      "capacity": 10,
+      "hourly_rate": 180,
+      "accessible": false
+    },
+    {
+      "room_id": "HALL",
+      "name": "אולם הכנסים הראשי",
+      "capacity": 300,
+      "hourly_rate": 300,
+      "accessible": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_note": "SYNTHETIC DATA – יומן שריונים התחלתי",
+  "reservations": [
+    {
+      "reservation_id": "RES-101",
+      "user_id": "u_demo_other",
+      "room_id": "R204",
+      "date": "2026-12-16",
+      "start_hour": 10,
+      "end_hour": 12,
+      "equipment": {
+        "recording_kit": 2
+      },
+      "total_cost": 640
+    },
+    {
+      "reservation_id": "RES-102",
+      "user_id": "u_demo_other",
+      "room_id": "AUD1",
+      "date": "2026-12-15",
+      "start_hour": 9,
+      "end_hour": 13,
+      "equipment": {
+        "projector": 2,
+        "mic": 4
+      },
+      "total_cost": 1620
+    },
+    {
+      "reservation_id": "RES-103",
+      "user_id": "u_demo_other",
+      "room_id": "R110",
+      "date": "2026-12-15",
+      "start_hour": 10,
+      "end_hour": 12,
+      "equipment": {
+        "projector": 1
+      },
+      "total_cost": 350
+    }
+  ]
+}
